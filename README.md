@@ -22,6 +22,7 @@ I first wrote two functions, the determineCriteria function and passwordLength f
 The Arraylist will be concated and then randomized by a random generator. It is lastly printed to the screen.
 
 The website link is : https://lyn7758.github.io/Password-Generator/
+
 The link to the github repository is : https://github.com/Lyn7758/Password-Generator
 
 ![image](https://user-images.githubusercontent.com/91827133/218639866-58049ec1-8c42-4d7b-a876-dd9a73d1a4d1.png)
