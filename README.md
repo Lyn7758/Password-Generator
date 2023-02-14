@@ -16,3 +16,12 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written zto the page
+
+This project developed by Yinan Li.
+I first wrote two functions, the determineCriteria function and passwordLength function. They will be called in the main generatePassword function and  grab the input from the user. If the requirement is out of bounds, they will be prompted again to enter the correct criterias.
+The Arraylist will be concated and then randomized by a random generator. It is lastly printed to the screen.
+
+The website link is : https://lyn7758.github.io/Password-Generator/
+The link to the github repository is : https://github.com/Lyn7758/Password-Generator
+
+![image](https://user-images.githubusercontent.com/91827133/218639866-58049ec1-8c42-4d7b-a876-dd9a73d1a4d1.png)
